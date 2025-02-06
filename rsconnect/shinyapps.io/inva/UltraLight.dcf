@@ -1,0 +1,12 @@
+name: UltraLight
+title: UltraLight
+username: inva
+account: inva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13929578
+bundleId: 9761090
+url: https://inva.shinyapps.io/UltraLight/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,27 @@
+Package: UltraLight
+Title: A search tool for Ultra Light loupe compatible laser eye protection.
+Version: 0.0.0.9000
+Authors@R: 
+    person("Melissa", "Rich", , "melissa@innovativeoptics.com", role = c("cre", "aut"))
+Description: An app that UltraLight may use to quickly recommend laser
+    safety inserts to their customers.
+License: MIT + file LICENSE
+URL: https://github.com/InnovativeOptics/UltraLight
+BugReports: https://github.com/InnovativeOptics/UltraLight/issues
+Imports: 
+    bslib,
+    config (>= 0.3.1),
+    DentalLibrary,
+    dplyr,
+    glue,
+    golem (>= 0.4.0),
+    googledrive,
+    googlesheets4,
+    shiny (>= 1.7.4),
+    stringr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1

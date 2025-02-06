@@ -1,0 +1,12 @@
+name: UltraLightTest
+title: UltraLightTest
+username: inva
+account: inva
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13852874
+bundleId: 9734175
+url: https://inva.shinyapps.io/UltraLightTest/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
